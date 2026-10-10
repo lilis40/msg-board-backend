@@ -1,0 +1,8 @@
+{
+  "name":"message-board-server",
+  "version":"1.0.0",
+  "dependencies":{
+    "express":"^4.21.0",
+    "cors":"^2.8.5"
+  }
+}
